@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_dashboard"
+        android:title="DashBoard"
+        android:icon="@drawable/ic_dashboard"/>
+
+
+    <item
+        android:id="@+id/placeholder"
+        android:title=""/>
+
+
+    <item
+        android:id="@+id/menu_setting"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+
+
+
+</menu>
